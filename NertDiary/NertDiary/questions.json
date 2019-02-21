@@ -1,0 +1,18 @@
+{
+	"questionDB": {
+		"1": {
+			"question": "How old are you?",
+			"answer": "12"
+		},
+		"2": {
+			"question": "qwe?",
+			"answer": "qwe"
+		}
+	},
+	"answersDB": {
+		"1": {
+			"question_id": "1",
+			"answer": "12",
+		}
+	}
+}
